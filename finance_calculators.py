@@ -5,7 +5,7 @@ import math
 # display options to user
 print("Options:")
 print(
-    "investment - to calculate the amount of interest you'll earn on your investment"
+    "investment - to calculate the amount of interest you will earn on your investment"
 )
 print(
     "bond       - to calculate the amount you'll have to pay on a home loan"
